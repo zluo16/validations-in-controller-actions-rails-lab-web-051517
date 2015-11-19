@@ -17,4 +17,6 @@ User#email
 
 keep the tests to controller requests without forms.
 they get the models and controllers totally stubbed out, no code or validations
-the app should include forms for them to use
+the app should include forms for them to use.
+
+as many fields that can require validation would be good but we also don't have to beat it to death.
