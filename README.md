@@ -20,3 +20,5 @@ they get the models and controllers totally stubbed out, no code or validations
 the app should include forms for them to use.
 
 as many fields that can require validation would be good but we also don't have to beat it to death.
+
+<a href='https://learn.co/lessons/validations-in-controller-actions-rails-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
