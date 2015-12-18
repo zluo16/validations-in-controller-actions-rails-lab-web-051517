@@ -1,5 +1,17 @@
 # Validations In Controller Actions Lab
 
+Time to apply these new tools!
+
+The goal of this lab is to allow users of this blog-style application to
+create and edit authors and posts without worrying that about typos or other
+mistakes leading to error-prone form submissions.
+
+For example, if someone creates a blog post with less than 100 characters of
+content, it's likely that they accidentally pasted the wrong text, or
+misunderstood which information goes into which field. We can improve the user's
+experience and the stability of our codebase by notifying users about these
+kinds of mistakes *before* bad data gets into the database.
+
 # Objectives
 
 - Define validations on a model
