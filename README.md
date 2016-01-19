@@ -3,7 +3,7 @@
 Time to apply these new tools!
 
 The goal of this lab is to allow users of this blog-style application to
-create and edit authors and posts without worrying that about typos or other
+create and edit authors and posts without worrying about typos or other
 mistakes leading to error-prone form submissions.
 
 For example, if someone creates a blog post with less than 100 characters of
