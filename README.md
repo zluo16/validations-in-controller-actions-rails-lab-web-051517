@@ -47,4 +47,4 @@ To complete this lab, you will need to:
 1. Change `PostsController#update` to re-render the form if the updated post is
    invalid.
 
-<a href='https://learn.co/lessons/validations-in-controller-actions-rails-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/validations-in-controller-actions-rails-lab' title='Validations In Controller Actions Lab'>Validations In Controller Actions Lab</a> on Learn.co and start learning to code for free.</p>
