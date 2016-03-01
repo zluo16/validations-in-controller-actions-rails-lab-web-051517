@@ -1,5 +1,5 @@
 class PostsController < ApplicationController
-  before_action :set_post!, only: [:show, :edit]
+  before_action :set_post!, only: [:show, :edit, :update]
 
   def show
   end
@@ -8,8 +8,6 @@ class PostsController < ApplicationController
   end
 
   def update
-    @post = Post.find(params[:id])
-
     @post.update(post_params)
 
     redirect_to post_path(@post)
